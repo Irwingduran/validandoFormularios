@@ -1,7 +1,4 @@
 # validandoFormularios
-Link para ver resultado: [FORMULARIO CON FIREBASE FINALIZADO](https://validar-formulario-js.netlify.app/)
-
-## Validación del Formulario
 
 El siguiente paso es validar los campos del formulario cuando se envía. Se agrega un evento de escucha al elemento con el ID "formulario" para capturar el evento de envío.
 
